@@ -1,0 +1,11 @@
+{
+  "name": "EduAI",
+  "display_name": "EduAI - Trợ lý Học tập Thông minh",
+  "description": "Nền tảng giáo dục tích hợp Gia sư Socratic, lộ trình cá nhân hóa và giải quyết vấn đề bằng AI.",
+  "version": "1.0.0",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "author": "User"
+}
